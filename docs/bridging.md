@@ -10,7 +10,9 @@ Users can bridge from:
 - Base
 - BNB Chain
 - Polygon
-
+- Optimism
+- Solana
+  
 ## How It Works
 1. User selects source chain and token
 2. CatOnInkChain queries multiple bridge providers
