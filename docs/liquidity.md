@@ -10,9 +10,15 @@ Primary liquidity sources:
 - Arbitrum
 - BNB Chain
 - Polygon
+- Optimism
+- Solana
 
 ## Metrics Tracked
+- Weekly ink stats (tvl, addresses, stablecoin MCAP, dexs volume, tokens)
 - Weekly netflow (inflow vs outflow)
+- Weekly opstack bridge flow by percentage
+- Weekly tydro supply & borrow apy changes
+- Monthly ink tokens price movement
 - Total bridge volume
 - Chain distribution
 
